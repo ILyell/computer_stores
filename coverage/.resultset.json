@@ -10,7 +10,7 @@
       "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/models/computer_store.rb": {
         "lines": [
           1,
-          null,
+          1,
           null
         ]
       },
@@ -26,6 +26,10 @@
           1,
           1,
           1,
+          null,
+          null,
+          1,
+          3,
           null,
           null
         ]
@@ -78,8 +82,17 @@
         ],
         "branches": {
         }
+      },
+      "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/models/computer.rb": {
+        "lines": [
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
       }
     },
-    "timestamp": 1688677044
+    "timestamp": 1688681124
   }
 }

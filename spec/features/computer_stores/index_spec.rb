@@ -3,7 +3,7 @@ require 'rails_helper'
 # As a visitor
 # When I visit '/parents'
 # Then I see the name of each parent record in the system
-RSpec.describe Index, type: :feature do 
+RSpec.describe ComputerStore, type: :feature do 
     describe "when I vist /computerstores" do
         it 'displays the name of each computer store in the system' do
             store_1 = ComputerStore.create!(name: "Main Store", location: "123 Easy ave.", repairs: true, rank: 2)

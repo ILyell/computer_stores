@@ -1,4 +1,4 @@
 <h1>Computer Stores</h1>
 <% @computer_stores.each do |store| %>
-    <h2><%= store.name %> </h2>
+    <a href="/computerstores/<%=store.id%>"> <%= store.name %> </a><br>
 <% end %>
