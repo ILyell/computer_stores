@@ -1,0 +1,6 @@
+<h1>Computer Store</h1>
+<% @computer_stores.each do |store| %>
+    <h2> Store: <%= store.name %> </h2>
+    <p> Location: <%= store.location %> </p>
+    <p> Offer Repairs: <%= store.repairs %> </p>
+<% end %>
