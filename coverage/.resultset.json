@@ -21,6 +21,13 @@
           null
         ]
       },
+      "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/models/computer.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/controllers/computer_stores_controller.rb": {
         "lines": [
           1,
@@ -37,6 +44,16 @@
       "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/controllers/application_controller.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/controllers/computers_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null,
           null
         ]
       },
@@ -82,17 +99,8 @@
         ],
         "branches": {
         }
-      },
-      "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/models/computer.rb": {
-        "lines": [
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
       }
     },
-    "timestamp": 1688681124
+    "timestamp": 1688736960
   }
 }
