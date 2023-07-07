@@ -7,4 +7,5 @@ Rails.application.routes.draw do
   get "/computerstores", to: "computer_stores#index"
   get "/computerstores/:id", to: "computer_stores#show"
   get "/computers", to: "computers#index"
+  get "/computers/:id", to: "computers#show"
 end

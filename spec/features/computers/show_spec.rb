@@ -20,13 +20,13 @@ RSpec.describe Computer, type: :feature do
             expect(page).to have_content(computer_1.price)
             expect(page).to have_content(computer_1.on_sale)
 
-            visit "computers/#{compuer_2.id}"
+            visit "computers/#{computer_2.id}"
 
             expect(page).to have_content(computer_2.name)
             expect(page).to have_content(computer_2.price)
             expect(page).to have_content(computer_2.on_sale)    
 
-            visit "computers/#{compuer_3.id}"
+            visit "computers/#{computer_3.id}"
 
             expect(page).to have_content(computer_3.name)
             expect(page).to have_content(computer_3.price)
