@@ -8,4 +8,5 @@ Rails.application.routes.draw do
   get "/computerstores/:id", to: "computer_stores#show"
   get "/computers", to: "computers#index"
   get "/computers/:id", to: "computers#show"
+  get "/computerstores/:computer_store_id/computers", to: "computers_by_store#index"
 end

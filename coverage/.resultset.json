@@ -61,6 +61,17 @@
           null
         ]
       },
+      "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/controllers/computers_by_store_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/ianlyell/turing_work/2mod/projects/computer_stores/app/channels/application_cable/channel.rb": {
         "lines": [
           0,
@@ -105,6 +116,6 @@
         }
       }
     },
-    "timestamp": 1688737251
+    "timestamp": 1689113391
   }
 }
