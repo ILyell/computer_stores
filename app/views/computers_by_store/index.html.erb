@@ -1,0 +1,6 @@
+<h1><%= @computer_store.name %></h1>
+<% @computers.each do |computer| %>
+<p><%= computer.name %></p>
+<p><%= computer.price %></p>
+<p><%= computer.on_sale %></p>
+<% end %>
